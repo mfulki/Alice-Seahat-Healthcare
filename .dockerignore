@@ -1,0 +1,5 @@
+.env
+.env.example
+*firebase.json
+Makefile
+README.md
